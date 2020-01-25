@@ -9,3 +9,8 @@
 .city {
   margin-left: 10%;
 }
+.background {
+  margin: 5px;
+  border: 2px solid black;
+  padding: 8px;
+}
