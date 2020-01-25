@@ -5,6 +5,15 @@
   float: right;
   margin-right: 7%;
   margin-top: 30%;
+  padding: 8px;
+  background-color: #F9DBBD;
+  height: 720px;
+}
+.intro h2 {
+  color: #450920;
+}
+.intro h1 {
+  color: #A53860;
 }
 .city {
   margin-left: 10%;
@@ -13,6 +22,7 @@
   text-align: center;
   margin: 5px;
   padding: 18px;
+  background-color: #F9DBBD;
 }
 body {
   font-family: 'Poppins', sans-serif;
@@ -20,4 +30,13 @@ body {
 }
 #doodle {
   width: 380px;
+}
+#music ul {
+  list-style-type: none;
+}
+.panel > .panel-heading {
+  background-image: none;
+  background-color: #F9DBBD;
+  color: #450920;
+
 }
