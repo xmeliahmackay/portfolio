@@ -6,14 +6,17 @@
   margin-right: 7%;
   margin-top: 30%;
   padding: 8px;
-  background-color: #F9DBBD;
+  background-color: #F8FAF9;
   height: 720px;
+  border-top: 6px solid #1F2F43;
+  border-left: 10px solid #DD3F4D;
+  border-right: 10px solid #DD3F4D;
 }
 .intro h2 {
-  color: #450920;
+  color: #7098B0;
 }
 .intro h1 {
-  color: #A53860;
+  color: #54C99B;
 }
 .city {
   margin-left: 10%;
@@ -22,7 +25,7 @@
   text-align: center;
   margin: 5px;
   padding: 18px;
-  background-color: #F9DBBD;
+  border: 5px solid #A53860;
 }
 body {
   font-family: 'Poppins', sans-serif;
@@ -33,10 +36,4 @@ body {
 }
 #music ul {
   list-style-type: none;
-}
-.panel > .panel-heading {
-  background-image: none;
-  background-color: #F9DBBD;
-  color: #450920;
-
 }
