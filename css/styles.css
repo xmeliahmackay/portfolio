@@ -1,19 +1,11 @@
 .jumbotron {
   font-family: 'Poppins', sans-serif;
 }
-.jumbotron h1 {
-  float: right;
-  margin-right: 5%;
-  margin-top: 50%;
-}
-.jumbotron h2{
-  float: right; 
-  width: 35%;
-  margin-left: 70%;
-}
-.jumbotron img {
-  margin-left: 10%;
-}
 .intro {
   float: right;
+  margin-right: 7%;
+  margin-top: 30%;
+}
+.city {
+  margin-left: 10%;
 }
