@@ -9,11 +9,12 @@
 .city {
   margin-left: 10%;
 }
-.background {
+#background {
+  text-align: center;
   margin: 5px;
-  border: 2px solid black;
-  padding: 8px;
+  padding: 18px;
 }
 body {
   font-family: 'Poppins', sans-serif;
+  text-align: center;
 }
