@@ -25,6 +25,9 @@
   border: 5px solid #A53860;
   color: #7098B0;
 }
+#background h2 {
+  text-decoration: underline solid #7098B0;
+}
 body {
   font-family: 'Poppins', sans-serif;
   text-align: center;
@@ -38,6 +41,15 @@ body {
 #music {
   color: #54C99B
 }
+#music h3 {
+  text-decoration: underline solid #54C99B;
+}
 #other {
   color: #54C99B;
+}
+#other h3 {
+  text-decoration: underline solid #54C99B;
+}
+.more {
+  color: #54C99B
 }
