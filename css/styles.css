@@ -39,16 +39,18 @@ body {
   list-style-type: none;
 }
 #music {
-  color: #54C99B
+  color: #7098B0
 }
 #music h3 {
   text-decoration: underline solid #54C99B;
+  color: #54C99B;
 }
 #other {
-  color: #54C99B;
+  color: #7098B0 ;
 }
 #other h3 {
   text-decoration: underline solid #54C99B;
+  color: #54C99B;
 }
 .more {
   color: #54C99B
