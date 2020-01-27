@@ -10,7 +10,7 @@ _This is my portfolio. I will be using it to show my skills that I am acquiring 
 
 ## Setup/Installation Requirements
 
-* _Go to "                              " GitHub Repository_
+* _Go to "https://github.com/xmeliahmackay/portfolio.git" GitHub Repository_
 * _Clone to your computer_
 * _Open and enjoy_
 
@@ -20,7 +20,7 @@ _If you have any questions, feel free to reach out to Meliah at XMeliahMacKay@gm
 
 ### License
 
-*{ 
+*{
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
