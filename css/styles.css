@@ -55,3 +55,6 @@ body {
 .more {
   color: #54C99B
 }
+#more:hover {
+  background-color: #DD3F4D;
+}
