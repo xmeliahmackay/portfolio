@@ -13,6 +13,7 @@ _This is my portfolio. I will be using it to show my skills that I am acquiring 
 * _Go to "https://github.com/xmeliahmackay/portfolio.git" GitHub Repository_
 * _Clone to your computer_
 * _Open and enjoy_
+* _Go to "https://xmeliahmackay.github.io/portfolio/" to see my Portfolio!_
 
 ## Support and contact details
 
