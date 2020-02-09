@@ -35,6 +35,18 @@ body {
 #doodle {
   width: 380px;
 }
+#doodle2 {
+  width: 380px;
+  display: none;
+}
+#doodle3 {
+  width: 380px;
+  display: none;
+}
+#doodle4 {
+  width: 380px;
+  display: none;
+}
 #music ul {
   list-style-type: none;
 }
